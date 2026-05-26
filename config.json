@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenconnect",
+        "uuid": 281358,
+        "checksum": "2cyvcx"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
